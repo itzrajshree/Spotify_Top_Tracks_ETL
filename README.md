@@ -113,8 +113,8 @@ You’ll see your top tracks with all relevant fields, cleaned and ready for ana
 
 ## 📸 Screenshots
 
-> Spotify DAG: Spotify_DAG.png
-> Spotify Top Tracks Table in DBeaver: Spotify_Top_Tracks.png
+> ![Spotify DAG](Spotify_DAG.png)
+> ![Spotify Top Tracks Table in DBeaver](Spotify_Top_Tracks.png)
 
 ---
 
