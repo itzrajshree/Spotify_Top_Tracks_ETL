@@ -138,8 +138,6 @@ See the [LICENSE](LICENSE) file for more details.
 
 **Rajshree**
 📧 Feel free to connect or check out more of my projects!
-🔗 \[Your LinkedIn / Portfolio / GitHub URL here]
-
 ```
 
 Let me know if you'd like help adding images, badges, or a `requirements.txt` file!
